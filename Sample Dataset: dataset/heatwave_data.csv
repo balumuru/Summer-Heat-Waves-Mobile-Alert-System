@@ -1,0 +1,6 @@
+temperature,humidity,wind_speed,heatwave
+42,20,10,1
+38,50,8,0
+45,15,12,1
+40,30,9,1
+35,60,5,0
